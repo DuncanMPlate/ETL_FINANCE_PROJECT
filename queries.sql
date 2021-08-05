@@ -1,7 +1,7 @@
 Create Table indexData (
 	id int Primary Key,
 	"Index" varchar(30),
-	Date varchar(30),
+	"Date" varchar(30),
 	"Open" decimal,
 	"High" decimal, 
 	"Low" decimal,
@@ -18,6 +18,4 @@ Create Table indexInfo (
 	"Currency" varchar(10) not null
 );
 
-SELECT * from indexData
-join indexInfo
-on indexData."Index" = indexInfo."Index"
+;
