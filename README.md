@@ -15,6 +15,7 @@ _____________________________
 1.	A dataset containing information on stock prices at open, high, low, close, adjusted close by Date (range from 12/31/1986 to 5/31/2021) was utalized.  This data was exported as a CSV file that can be found here: https://github.com/DuncanMPlate/group_project_2/tree/main/Resources/indexProcessed.csv
 
 2.	A dataset containing information on unemployment rate
+______________________________
 
 Process 2: Transforming the Data
 _____________________________
@@ -28,6 +29,7 @@ We utilized a relational database (PostgreSQL) to link the data by our common id
 4.	
 
 5.	Connected Jupyter Notebook to pgAdmin using SQLAlchemy
+_____________________________
 
 Process 3: Loading the Data
 _____________________________
