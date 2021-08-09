@@ -45,17 +45,17 @@ _____________________________
 
 -	Created the schema to hold the datasets (indexData, indexInfo)
 
-  -	Code for this is here: https://github.com/DuncanMPlate/group_project_2/blob/main/queries.sql
+  Code for this is here: https://github.com/DuncanMPlate/group_project_2/blob/main/queries.sql
 
 
 -	Imported the datasets with SQLAlchemy
 
-  -	Code for this is here: https://github.com/DuncanMPlate/group_project_2/blob/main/data_crunch.ipynb
+  Code for this is here: https://github.com/DuncanMPlate/group_project_2/blob/main/data_crunch.ipynb
 
 
 -	Created a dictionary to get a single dataset which can be utilized to run queries and use the information for visualization
   
-  -	Code for this is here: https://github.com/DuncanMPlate/group_project_2/blob/main/jobs_crunch.ipynb
+  Code for this is here: https://github.com/DuncanMPlate/group_project_2/blob/main/jobs_crunch.ipynb
 
 
 
