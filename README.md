@@ -1,4 +1,4 @@
-**ETL FINANCE PROJECT**
+# **ETL FINANCE PROJECT**
 
 
 Objective: Identify two separate data sources to be **E**xplored, **T**ransformed and **L**oaded (ETL) using Pandas and 
