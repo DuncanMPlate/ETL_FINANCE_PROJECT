@@ -27,6 +27,7 @@ ______________________________
 
 ## Process 2: Transforming the Data
 _____________________________
+
 We cleaned the unemployment and employment datasets by creating a dictionary in order to link this information to our  stock exchange dataset (indexInfo). 
 
 •	Called in the Pandas and SQLAlchemy libraries
@@ -41,13 +42,23 @@ _____________________________
 
 ## Process 3: Loading the Data
 _____________________________
+
 •	Created the schema to hold the datasets (indexData, indexInfo)
+
+-	Code for this is here: https://github.com/DuncanMPlate/group_project_2/blob/main/queries.sql
+
 
 •	Imported the datasets with SQLAlchemy
 
-•	Created a dictionary  to get a single dataset which can be utilized to run queries and use the information for visualization
+-	Code for this is here: https://github.com/DuncanMPlate/group_project_2/blob/main/data_crunch.ipynb
+
+
+•	Created a dictionary to get a single dataset which can be utilized to run queries and use the information for visualization
+-	Code for this is here: https://github.com/DuncanMPlate/group_project_2/blob/main/jobs_crunch.ipynb
+
 
 _____________________________
+
 ## Questions Answered
 _____________________________
 
