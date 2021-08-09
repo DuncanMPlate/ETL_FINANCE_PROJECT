@@ -10,7 +10,7 @@ Collaborators:  Breckin Shoemaker, Debra Potts, Duncan Plate and Julie Baker
 
 __________________________________________________________________________________________________________________________
 
-Process 1: Extracting the Data
+## Process 1: Extracting the Data
 _____________________________
 We utilized five different datasets for this project.  Each dataset was exported as a CSV file from Kaggle.com and consists of the following information:
 
@@ -25,7 +25,7 @@ https://github.com/DuncanMPlate/group_project_2/blob/main/employment.csv
 
 ______________________________
 
-Process 2: Transforming the Data
+## Process 2: Transforming the Data
 _____________________________
 We cleaned the unemployment and employment datasets by creating a dictionary in order to link this information to our  stock exchange dataset (indexInfo). 
 •	Called in the Pandas and SQLAlchemy libraries
@@ -38,7 +38,7 @@ We cleaned the unemployment and employment datasets by creating a dictionary in 
 
 _____________________________
 
-Process 3: Loading the Data
+## Process 3: Loading the Data
 _____________________________
 •	Created the schema to hold the datasets (indexData, indexInfo)
 
@@ -47,7 +47,7 @@ _____________________________
 •	Created a dictionary  to get a single dataset which can be utilized to run queries and use the information for visualization
 
 _____________________________
-Questions Answered
+## Questions Answered
 _____________________________
 
 
