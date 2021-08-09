@@ -64,6 +64,9 @@ _____________________________
 ## Questions Answered
 _____________________________
 
+The end user can utilize our database by running additional queries.  It is also feasible to use Matplotlib to create and generate graphs and charts for visualization.
+
+
 Following are some future querying and analysis examples a user can perform by utilizing our database:
 
 1.	Compare
