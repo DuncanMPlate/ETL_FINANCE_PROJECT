@@ -28,6 +28,7 @@ ______________________________
 ## Process 2: Transforming the Data
 _____________________________
 We cleaned the unemployment and employment datasets by creating a dictionary in order to link this information to our  stock exchange dataset (indexInfo). 
+
 •	Called in the Pandas and SQLAlchemy libraries
 
 •	Imported the CSV files and converted those to DataFrames
