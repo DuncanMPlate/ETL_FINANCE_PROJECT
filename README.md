@@ -13,8 +13,11 @@ ________________________________________________________________________________
 Process 1: Extracting the Data
 _____________________________
 We utilized five different datasets for this project.  Each dataset was exported as a CSV file from Kaggle.com and consists of the following information:
+
 •	Dataset containing information on stock prices by index, date, open, high, low, close and adjusted close can be found here: https://github.com/DuncanMPlate/group_project_2/tree/main/Resources/indexProcessed.csv
+
 •	Dataset containing stock price information by region, exchange, index and currency can be found here: https://github.com/DuncanMPlate/group_project_2/blob/main/Resources/indexInfo.csv
+
 •	Dataset containing stock price information by index, date, open, high, low, close and adjusted close can be found here: https://github.com/DuncanMPlate/group_project_2/blob/main/Resources/indexData.csv
 
 •	Two datasets containing information on unemployment and employment rate by location, indicator, subject, measure, frequency, time and value can be found here: https://github.com/DuncanMPlate/group_project_2/tree/main/Resources/unemployment.csv
