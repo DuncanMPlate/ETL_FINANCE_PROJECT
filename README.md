@@ -64,4 +64,7 @@ _____________________________
 ## Questions Answered
 _____________________________
 
+Following are some future querying and analysis examples a user can perform by utilizing our database:
+
+1.	Compare
 
