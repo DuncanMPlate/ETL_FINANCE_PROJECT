@@ -45,17 +45,17 @@ _____________________________
 
 -	Created the schema to hold the datasets (indexData, indexInfo)
 
-        Code for this is here: https://github.com/DuncanMPlate/group_project_2/blob/main/queries.sql
+        https://github.com/DuncanMPlate/group_project_2/blob/main/queries.sql
 
 
 -	Imported the stock exchange datasets with SQLAlchemy
 
-        Code for this is here: https://github.com/DuncanMPlate/group_project_2/blob/main/data_crunch.ipynb
+        https://github.com/DuncanMPlate/group_project_2/blob/main/data_crunch.ipynb
 
 
 -	Created a table to link the stock exchange locations with jobs location in order to be utilized to run queries and use the information for visualization
   
-        Code for this is here: https://github.com/DuncanMPlate/group_project_2/blob/main/jobs_crunch.ipynb
+        https://github.com/DuncanMPlate/group_project_2/blob/main/jobs_crunch.ipynb
 
 
 
