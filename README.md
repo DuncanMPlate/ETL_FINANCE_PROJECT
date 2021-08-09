@@ -48,12 +48,12 @@ _____________________________
         Code for this is here: https://github.com/DuncanMPlate/group_project_2/blob/main/queries.sql
 
 
--	Imported the datasets with SQLAlchemy
+-	Imported the stock exchange datasets with SQLAlchemy
 
         Code for this is here: https://github.com/DuncanMPlate/group_project_2/blob/main/data_crunch.ipynb
 
 
--	Created a dictionary to get a single dataset which can be utilized to run queries and use the information for visualization
+-	Created a table to link the stock exchange locations with jobs location in order to be utilized to run queries and use the information for visualization
   
         Code for this is here: https://github.com/DuncanMPlate/group_project_2/blob/main/jobs_crunch.ipynb
 
@@ -69,5 +69,9 @@ The end user can utilize our database by running additional queries.  It is also
 
 Following are some future querying and analysis examples a user can perform by utilizing our database:
 
-1.	Compare
+        1. The user can query the table to compare the unemployment numbers to the stock market numbers categorized by date. The user can then analyze this data to see if                 there is a correlation between the stock market numbers and unemployment numbers.
+        
+        2. The user can then take this data and plot the information on a line graph containing 2 separate lines to analyze the relationship that may exist between the two.
+        
+        3. After joining the unemployment numbers and the stock markets numbers on the corresponding dates, the user could create a scatter plot with the stock market numbers          on the x-axis and the unemployment numbers on the y-axis. The code for linear regression could then be implemented on the scatter plot to determine the R-value to              ultimately determine how strong of a correlation these have with one another.
 
